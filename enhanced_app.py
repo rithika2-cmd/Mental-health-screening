@@ -1550,9 +1550,7 @@ elif page == "📊 Daily Mood Tracker":
                 else:
                     st.warning("⚠️ Install SpeechRecognition for transcription: pip install SpeechRecognition")
         else:
-            st.warning("⚠️ Install audio recorder to enable voice recording:")
-            st.code("pip install streamlit-audio-recorder", language="bash")
-            st.info("💡 For now, use the text input below - it works just as well!")
+            st.info("💡 Voice recording is not available in this environment. Use the text input below — it works just as well!")
         
         st.markdown("---")
         st.markdown("#### ✍️ Or Type Your Thoughts")
