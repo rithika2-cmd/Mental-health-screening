@@ -614,7 +614,7 @@ st.markdown("""
 
 /* Sidebar styling */
 [data-testid="stSidebar"] {
-    background: linear-gradient(180deg, rgba(255, 255, 255, 0.95), rgba(224, 242, 241, 0.95)) !important;
+    background: linear-gradient(180deg, #e0f2f1, #b2dfdb) !important;
 }
 
 /* Radio buttons */
