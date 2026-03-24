@@ -1,0 +1,501 @@
+Age,Gender,Sleep_Hours,Work_Hours,Physical_Activity,Social_Support,Stress_Level,Anxiety_Score,Work_Satisfaction,Relationship_Status,Financial_Stress,Chronic_Illness,Family_History,Therapy_History,Medication,Screen_Time,Alcohol_Consumption,Diet_Quality,Depression
+56,Female,7.2,74,Light,7.0,High,15.0,8.0,Married,9,No,Yes,No,Yes,12.8,Moderate,Good,Moderate
+69,Female,9.5,65,Light,9.0,High,2.0,2.0,Single,4,No,No,Yes,No,3.2,Occasional,Poor,Mild
+46,Female,6.1,55,Moderate,2.0,Medium,18.0,6.0,Married,6,No,Yes,No,Yes,4.8,None,Fair,Moderately Severe
+32,Female,6.1,64,None,3.0,High,11.0,9.0,Single,2,No,Yes,No,No,10.5,None,Fair,Moderately Severe
+60,Male,8.4,27,Light,5.0,Very High,15.0,8.0,Single,4,No,No,No,No,11.9,Occasional,Fair,Moderate
+25,Male,6.7,48,Heavy,,Medium,10.0,8.0,Single,2,No,No,No,No,12.3,None,Poor,Mild
+38,Male,5.3,74,Moderate,8.0,High,9.0,8.0,Single,10,No,No,No,No,7.0,Occasional,Excellent,Moderate
+56,Female,6.7,72,Light,10.0,Very High,19.0,7.0,Relationship,5,No,No,Yes,Yes,3.1,Occasional,Fair,Moderate
+36,Male,4.8,74,Heavy,8.0,Medium,3.0,8.0,Single,7,No,No,No,No,7.3,Moderate,Excellent,Mild
+40,Male,5.1,51,Moderate,8.0,Medium,11.0,6.0,Divorced,1,No,Yes,Yes,No,4.8,Heavy,Fair,Mild
+28,Male,7.0,70,Light,9.0,High,1.0,2.0,Married,10,No,Yes,Yes,Yes,5.5,Heavy,Excellent,Moderate
+28,Male,6.5,63,Moderate,4.0,High,18.0,2.0,Single,10,No,Yes,Yes,No,11.3,Heavy,Good,Severe
+41,Female,9.5,37,Moderate,5.0,High,4.0,8.0,Married,7,Yes,No,No,No,2.9,None,Excellent,Mild
+53,Female,6.2,25,Light,5.0,Medium,7.0,1.0,Married,10,Yes,Yes,No,Yes,11.9,None,Poor,Moderately Severe
+57,Male,7.5,37,Light,8.0,Very High,6.0,6.0,Married,6,No,No,Yes,No,7.1,Occasional,Good,Moderate
+41,Male,7.8,38,Light,7.0,Low,,6.0,Single,6,Yes,No,Yes,Yes,9.2,Moderate,Excellent,Mild
+20,Female,4.1,41,Moderate,9.0,Low,2.0,4.0,Married,8,Yes,Yes,No,No,3.1,Heavy,Poor,Moderate
+39,Male,8.0,56,Light,8.0,High,17.0,10.0,Married,8,No,No,Yes,Yes,6.0,Moderate,Poor,Moderate
+19,Male,5.1,51,Heavy,2.0,Medium,15.0,3.0,Single,6,No,No,Yes,No,3.1,None,Fair,Moderate
+41,Male,9.8,75,Moderate,10.0,Medium,18.0,3.0,Single,3,No,Yes,Yes,No,13.5,Heavy,Excellent,Moderate
+61,Male,4.9,60,None,4.0,Medium,18.0,1.0,Married,5,Yes,No,No,No,11.7,Occasional,Good,Severe
+47,Female,6.5,78,Moderate,6.0,Medium,17.0,3.0,Single,2,Yes,No,No,No,7.5,None,Good,Moderate
+55,Female,4.5,22,Light,2.0,Low,19.0,4.0,Married,5,Yes,No,No,No,4.7,Occasional,Poor,Moderately Severe
+19,Male,10.0,47,Moderate,7.0,Very High,15.0,5.0,Relationship,9,No,No,No,No,13.2,None,Poor,Moderately Severe
+38,Male,7.0,29,Moderate,3.0,Medium,7.0,3.0,Divorced,10,No,No,No,Yes,6.1,Occasional,Good,Moderate
+50,Female,7.6,70,Light,3.0,High,0.0,6.0,Married,1,No,No,No,No,3.9,Occasional,Poor,Mild
+29,Female,4.4,54,Light,2.0,High,16.0,5.0,Single,10,Yes,Yes,No,No,8.8,Occasional,Good,Severe
+39,Female,8.5,48,None,,Very High,11.0,3.0,Single,5,No,No,No,No,13.3,Occasional,Excellent,Moderately Severe
+61,Female,5.3,73,None,6.0,Low,20.0,,Married,6,No,No,Yes,No,2.0,Moderate,Fair,Moderate
+42,Male,9.4,34,Light,1.0,Very High,10.0,6.0,Married,7,No,Yes,Yes,No,4.9,Occasional,Good,Moderately Severe
+66,Male,5.2,52,Light,1.0,High,4.0,8.0,Married,9,No,No,No,No,13.3,Occasional,Poor,Moderately Severe
+44,Female,5.1,26,Heavy,7.0,High,11.0,,Single,6,No,No,No,No,4.1,Moderate,Good,Moderate
+59,Male,4.2,31,Light,8.0,High,16.0,,Single,5,Yes,No,No,Yes,3.4,Heavy,Fair,Moderately Severe
+45,Female,6.8,68,Light,5.0,High,5.0,4.0,Single,7,Yes,No,No,No,8.8,None,Good,Moderate
+33,Female,7.4,49,Moderate,5.0,Medium,0.0,7.0,Married,1,No,No,No,No,12.3,Occasional,Fair,Minimal
+32,Female,4.4,40,None,4.0,High,4.0,10.0,Single,5,Yes,No,Yes,No,7.7,None,Fair,Moderate
+64,Male,8.7,50,Heavy,6.0,High,13.0,3.0,Relationship,2,Yes,No,No,No,13.9,None,Good,Moderate
+68,Female,6.7,77,Moderate,6.0,High,4.0,3.0,Married,4,Yes,No,No,Yes,10.2,Occasional,Fair,Moderate
+61,Male,7.1,43,Moderate,3.0,Very High,0.0,5.0,Divorced,7,Yes,No,No,No,2.9,Moderate,Good,Moderate
+69,Female,6.6,39,None,9.0,Medium,17.0,,Relationship,5,No,No,No,No,13.9,None,Fair,Moderately Severe
+20,Female,6.4,56,Light,7.0,Very High,,10.0,Single,6,No,No,No,Yes,6.9,Moderate,Good,Moderate
+54,Male,7.4,23,Light,,Low,8.0,3.0,Married,2,No,No,Yes,No,5.4,Moderate,Fair,Moderate
+68,Non-binary,4.9,47,Heavy,7.0,Low,18.0,9.0,Married,3,No,No,No,Yes,8.7,Heavy,Good,Mild
+24,Female,5.1,63,None,5.0,Low,,4.0,Relationship,7,No,No,Yes,No,5.7,None,Poor,Moderate
+38,Male,9.2,39,Light,5.0,Medium,1.0,3.0,Divorced,2,No,Yes,No,Yes,3.0,Heavy,Fair,Moderate
+26,Male,9.7,79,Heavy,2.0,High,14.0,2.0,Married,6,No,No,No,No,2.0,Occasional,Fair,Moderate
+56,Male,6.2,43,Light,4.0,Low,,10.0,Single,5,No,No,No,No,7.4,Occasional,Good,Mild
+35,Male,5.6,69,Light,6.0,Low,3.0,9.0,Single,10,Yes,Yes,No,No,12.0,None,Fair,Moderate
+21,Male,7.9,68,None,10.0,Very High,0.0,4.0,Relationship,1,No,No,No,No,8.9,None,Excellent,Moderate
+42,Female,6.5,70,Heavy,7.0,High,12.0,3.0,Married,10,No,No,No,No,14.0,Moderate,Excellent,Moderate
+31,Male,4.2,51,None,5.0,High,19.0,7.0,Single,4,No,No,No,No,5.4,Occasional,Fair,Moderately Severe
+67,Male,,60,Moderate,9.0,Very High,6.0,8.0,Married,2,No,Yes,No,Yes,5.4,None,Good,Moderate
+26,Female,8.3,55,Moderate,3.0,High,14.0,2.0,Married,4,No,No,No,No,3.9,None,Poor,Moderate
+43,Male,8.0,77,Light,1.0,Low,13.0,7.0,Single,1,No,No,No,Yes,4.0,Occasional,Fair,Mild
+19,Female,4.2,72,Moderate,4.0,Medium,18.0,5.0,Married,2,Yes,Yes,Yes,No,5.4,None,Good,Moderate
+37,Male,5.3,53,None,9.0,High,19.0,5.0,Divorced,8,No,No,No,No,11.5,Moderate,Good,Severe
+45,Male,5.4,55,Light,,Medium,,3.0,Single,6,No,No,No,No,12.9,None,Good,Moderately Severe
+64,Female,8.0,21,Moderate,2.0,High,9.0,5.0,Relationship,2,No,Yes,Yes,No,13.7,None,Fair,Moderate
+24,Female,4.1,34,Heavy,10.0,Low,8.0,2.0,Relationship,6,Yes,No,Yes,Yes,4.8,Occasional,Fair,Mild
+61,Female,4.6,53,Moderate,5.0,Medium,7.0,4.0,Married,10,No,No,Yes,No,12.6,Occasional,Poor,Moderately Severe
+25,Female,8.8,55,Moderate,3.0,High,9.0,6.0,Divorced,9,No,Yes,No,No,5.9,Occasional,Good,Moderate
+64,Female,5.1,25,None,9.0,High,16.0,1.0,Relationship,7,Yes,Yes,No,No,3.4,Occasional,Good,Severe
+52,Male,7.9,58,None,4.0,High,1.0,10.0,Married,9,No,Yes,No,No,12.4,Heavy,Good,Moderate
+31,Male,5.4,61,None,6.0,High,5.0,4.0,Relationship,5,Yes,Yes,Yes,Yes,9.6,Occasional,Fair,Moderate
+34,Female,4.6,70,Light,2.0,Low,4.0,6.0,Relationship,7,No,No,No,No,4.0,None,Fair,Moderate
+53,Female,5.5,70,Light,6.0,Low,8.0,9.0,Single,7,No,No,Yes,No,7.2,Occasional,Fair,Mild
+67,Non-binary,8.3,77,Light,3.0,Very High,4.0,2.0,Single,3,No,Yes,No,No,5.4,Moderate,Poor,Moderately Severe
+57,Male,9.1,73,Light,9.0,High,17.0,7.0,Single,7,Yes,Yes,No,No,10.8,Occasional,Fair,Moderately Severe
+21,Male,9.0,31,Light,2.0,Low,19.0,6.0,Married,1,No,Yes,Yes,No,7.4,None,Good,Moderate
+19,Female,6.4,22,Moderate,,High,8.0,2.0,Single,9,Yes,No,No,No,13.9,Moderate,Excellent,Moderately Severe
+23,Male,8.0,64,Heavy,5.0,Medium,16.0,8.0,Divorced,10,Yes,Yes,Yes,Yes,2.7,Occasional,Good,Moderate
+59,Female,5.2,37,Light,8.0,Medium,16.0,7.0,Single,6,Yes,No,No,No,6.3,Occasional,Fair,Moderate
+21,Female,5.8,59,Heavy,2.0,Low,11.0,5.0,Single,5,Yes,No,No,No,7.8,None,Poor,Moderate
+46,Male,9.4,40,Heavy,6.0,High,6.0,5.0,Relationship,7,No,Yes,No,No,8.0,None,Excellent,Mild
+35,Female,4.1,34,None,3.0,High,2.0,7.0,Married,5,No,No,Yes,No,5.8,Occasional,Poor,Moderate
+43,Female,4.5,52,Moderate,10.0,Medium,9.0,9.0,Single,10,No,No,Yes,No,10.8,None,Excellent,Moderate
+61,Male,5.2,54,Moderate,5.0,Very High,1.0,9.0,Relationship,5,No,No,No,No,12.5,Occasional,Fair,Moderate
+51,Female,4.2,45,Moderate,8.0,Medium,2.0,9.0,Divorced,10,No,No,Yes,No,13.3,Occasional,Fair,Moderate
+27,Female,5.1,27,Light,10.0,Medium,15.0,6.0,Single,7,No,Yes,No,No,11.7,None,Excellent,Moderate
+53,Female,7.5,55,Moderate,1.0,Low,1.0,10.0,Relationship,10,No,Yes,No,No,12.2,Heavy,Poor,Mild
+31,Male,6.5,67,Light,5.0,Medium,9.0,,Married,7,No,No,Yes,No,8.6,Moderate,Good,Moderate
+48,Female,9.4,49,Moderate,3.0,Low,5.0,3.0,Single,3,Yes,Yes,Yes,Yes,11.9,Moderate,Good,Moderate
+65,Male,8.9,42,Moderate,4.0,High,,1.0,Relationship,3,No,Yes,No,No,5.6,None,Fair,Moderate
+32,Male,6.1,61,Moderate,2.0,High,6.0,,Relationship,10,Yes,Yes,No,No,6.8,None,Fair,Moderate
+25,Female,5.6,63,Moderate,9.0,High,14.0,4.0,Relationship,3,No,Yes,No,No,5.8,Occasional,Good,Moderate
+31,Male,6.3,33,Moderate,3.0,Medium,5.0,1.0,Single,6,No,No,No,No,7.6,None,Good,Moderate
+40,Male,7.5,33,None,2.0,Low,19.0,8.0,Single,6,No,Yes,No,No,5.4,Heavy,Poor,Moderately Severe
+57,Female,5.6,21,Light,10.0,Medium,8.0,6.0,Relationship,3,Yes,No,Yes,No,13.5,None,Excellent,Moderate
+38,Female,7.7,74,Heavy,9.0,Medium,19.0,6.0,Single,3,No,No,No,Yes,5.8,Occasional,Fair,Mild
+33,Female,6.5,56,Light,7.0,High,,2.0,Married,8,Yes,No,No,No,3.2,Occasional,Fair,Moderately Severe
+62,Female,7.3,24,None,6.0,Low,18.0,1.0,Relationship,8,No,Yes,Yes,No,8.3,Occasional,Fair,Moderately Severe
+35,Male,6.6,57,None,1.0,High,19.0,2.0,Relationship,7,Yes,No,Yes,No,2.7,None,Poor,Severe
+64,Male,5.8,64,Light,5.0,Very High,2.0,4.0,Married,10,Yes,Yes,Yes,No,3.3,Occasional,Poor,Moderately Severe
+41,Male,9.7,60,Heavy,3.0,Medium,14.0,2.0,Married,4,No,No,Yes,No,4.6,None,Excellent,Moderate
+43,Female,8.6,73,Moderate,1.0,High,1.0,1.0,Single,4,Yes,No,No,No,7.6,Moderate,Fair,Moderate
+42,Female,4.8,79,Heavy,4.0,High,20.0,7.0,Divorced,3,No,No,No,No,7.2,None,Poor,Mild
+62,Female,9.2,66,Moderate,2.0,High,1.0,8.0,Single,5,No,No,Yes,No,11.6,Heavy,Poor,Mild
+58,Female,6.9,33,Light,2.0,High,2.0,6.0,Single,3,Yes,No,No,No,10.9,Moderate,Good,Moderate
+46,Male,9.4,75,Light,3.0,Medium,5.0,4.0,Married,8,No,No,No,No,7.1,None,Excellent,Moderate
+32,Female,,58,Moderate,8.0,Medium,14.0,6.0,Relationship,7,Yes,No,No,No,6.0,Moderate,Fair,Mild
+62,Male,6.6,44,None,8.0,Medium,9.0,3.0,Relationship,3,No,No,No,No,5.8,None,Poor,Moderate
+18,Female,4.1,39,Heavy,7.0,Medium,8.0,8.0,Single,9,Yes,Yes,Yes,No,11.3,Heavy,Fair,Moderate
+42,Male,5.6,21,Heavy,6.0,High,0.0,10.0,Relationship,5,No,No,No,No,2.6,Occasional,Poor,Minimal
+24,Female,7.2,58,Light,9.0,Low,15.0,2.0,Single,9,Yes,No,No,No,2.2,Occasional,Poor,Moderate
+26,Male,7.8,25,Heavy,4.0,Very High,5.0,5.0,Divorced,7,No,No,Yes,No,11.5,Occasional,Fair,Moderate
+41,Male,5.5,36,Heavy,1.0,High,8.0,1.0,Single,7,No,No,Yes,No,7.7,None,Fair,Moderate
+18,Male,4.8,78,Moderate,8.0,Medium,3.0,6.0,Married,6,No,No,Yes,No,3.6,Heavy,Good,Mild
+61,Female,9.0,44,None,7.0,Low,1.0,2.0,Married,2,No,Yes,Yes,No,4.8,None,Fair,Mild
+25,Female,9.9,76,Light,7.0,Very High,3.0,4.0,Married,9,No,No,No,No,13.2,Occasional,Excellent,Moderate
+41,Male,7.2,47,Moderate,3.0,High,0.0,6.0,Married,6,No,Yes,No,No,12.3,Occasional,Excellent,Moderate
+28,Male,5.0,21,Light,4.0,High,18.0,10.0,Married,8,Yes,No,No,Yes,10.5,Heavy,Good,Severe
+68,Female,5.6,54,None,10.0,Medium,9.0,8.0,Relationship,1,No,Yes,No,No,7.8,None,Fair,Moderate
+34,Male,4.1,56,Moderate,9.0,Medium,20.0,8.0,Single,5,No,Yes,No,No,8.2,Occasional,Fair,Moderate
+25,Female,9.5,24,None,6.0,Low,14.0,6.0,Single,1,No,No,No,No,13.7,Occasional,Fair,Mild
+52,Female,4.7,20,Moderate,5.0,Low,,4.0,Married,10,No,No,No,No,13.6,Moderate,Good,Moderately Severe
+52,Male,7.5,59,Heavy,3.0,High,15.0,8.0,Married,8,No,Yes,Yes,Yes,4.6,None,Fair,Moderate
+50,Male,5.6,31,Heavy,9.0,High,20.0,8.0,Relationship,8,Yes,No,No,Yes,11.7,None,Excellent,Moderately Severe
+22,Non-binary,7.3,75,Light,5.0,High,3.0,10.0,Single,1,No,Yes,No,No,4.4,None,Excellent,Mild
+59,Male,7.9,55,Heavy,5.0,Very High,1.0,1.0,Relationship,9,Yes,Yes,Yes,No,4.6,Moderate,Fair,Moderately Severe
+56,Male,9.0,64,None,4.0,High,12.0,4.0,Married,2,No,No,No,No,10.1,None,Good,Moderately Severe
+58,Female,5.2,42,None,4.0,Medium,0.0,4.0,Relationship,9,No,No,No,Yes,6.9,Occasional,Poor,Moderate
+45,Female,4.1,66,Moderate,1.0,Medium,16.0,7.0,Married,1,No,Yes,No,Yes,13.2,None,Fair,Moderately Severe
+24,Non-binary,4.8,50,Light,7.0,Very High,12.0,7.0,Divorced,10,No,Yes,No,No,3.1,Moderate,Fair,Moderately Severe
+26,Female,9.4,30,Light,9.0,Low,3.0,8.0,Single,9,No,Yes,No,No,8.1,Heavy,Fair,Mild
+25,Male,9.2,29,Moderate,3.0,Very High,6.0,5.0,Relationship,4,Yes,Yes,No,No,13.0,Occasional,Excellent,Moderately Severe
+29,Male,7.6,22,None,2.0,High,16.0,7.0,Relationship,9,No,No,No,No,12.8,Occasional,Fair,Moderately Severe
+51,Female,,73,Light,3.0,Low,8.0,,Relationship,7,Yes,No,No,No,3.9,None,Fair,Moderate
+50,Female,8.0,33,Light,1.0,High,3.0,9.0,Single,6,No,Yes,No,Yes,6.4,None,Good,Moderate
+65,Male,5.1,35,Moderate,6.0,Very High,18.0,3.0,Single,5,No,No,No,Yes,9.4,None,Good,Moderately Severe
+40,Female,9.5,29,Moderate,7.0,High,0.0,3.0,Married,9,Yes,No,No,No,3.9,Occasional,Fair,Moderate
+41,Male,,48,Light,2.0,Very High,9.0,4.0,Relationship,2,No,Yes,No,No,13.6,Occasional,Excellent,Moderately Severe
+54,Female,6.3,29,Light,8.0,Very High,3.0,5.0,Relationship,2,No,No,No,No,13.0,Heavy,Good,Moderate
+52,Male,7.1,31,None,6.0,Medium,8.0,10.0,Divorced,9,No,No,Yes,No,4.0,Occasional,Fair,Moderate
+61,Male,4.3,49,None,4.0,Medium,12.0,1.0,Married,3,No,Yes,Yes,No,3.5,Occasional,Poor,Moderately Severe
+57,Male,5.0,60,Moderate,5.0,Very High,13.0,7.0,Single,8,Yes,Yes,Yes,No,3.0,Occasional,Fair,Moderately Severe
+39,Male,,20,Light,8.0,High,9.0,9.0,Married,9,Yes,No,No,No,12.9,Occasional,Good,Moderately Severe
+44,Male,4.5,24,None,3.0,Low,5.0,8.0,Relationship,8,No,No,Yes,Yes,4.3,None,Good,Moderately Severe
+52,Female,7.6,39,Moderate,3.0,Low,15.0,5.0,Married,4,No,Yes,Yes,No,7.0,Occasional,Good,Moderate
+18,Female,5.5,27,Moderate,4.0,High,5.0,4.0,Married,1,Yes,Yes,No,No,7.4,Occasional,Fair,Moderate
+52,Female,6.3,62,Moderate,1.0,Very High,16.0,7.0,Married,4,No,No,No,No,9.2,Moderate,Poor,Moderate
+54,Non-binary,,31,Light,9.0,High,9.0,5.0,Relationship,9,Yes,No,No,No,2.9,Heavy,Poor,Moderately Severe
+64,Male,6.1,20,Light,8.0,High,17.0,7.0,Married,2,No,No,Yes,Yes,4.7,Occasional,Fair,Moderate
+31,Male,8.3,76,Light,8.0,Low,17.0,1.0,Single,3,No,No,No,No,13.2,None,Good,Mild
+20,Female,,73,None,10.0,Medium,2.0,1.0,Single,10,No,Yes,No,Yes,12.9,Occasional,Good,Moderately Severe
+18,Male,7.4,39,Moderate,6.0,Very High,19.0,10.0,Relationship,8,No,No,No,No,11.4,Occasional,Fair,Moderate
+22,Non-binary,6.9,47,Heavy,7.0,Low,20.0,3.0,Single,6,No,No,No,No,2.2,None,Fair,Mild
+43,Male,8.0,76,Moderate,6.0,Medium,14.0,2.0,Single,8,Yes,No,No,No,5.9,Moderate,Fair,Moderate
+31,Non-binary,9.6,62,Moderate,9.0,Low,14.0,2.0,Married,7,Yes,Yes,Yes,No,9.5,Heavy,Fair,Moderate
+56,Male,8.4,56,Light,3.0,High,3.0,7.0,Divorced,5,No,No,Yes,No,5.3,Heavy,Fair,Mild
+44,Female,5.3,66,Moderate,3.0,Very High,8.0,10.0,Relationship,9,No,No,Yes,No,12.9,None,Poor,Moderately Severe
+26,Female,4.2,56,Light,3.0,Medium,18.0,2.0,Single,4,No,No,No,No,9.6,Moderate,Fair,Moderately Severe
+32,Non-binary,5.6,31,Moderate,10.0,Medium,16.0,4.0,Single,6,No,No,No,Yes,2.9,Moderate,Poor,Moderate
+32,Male,7.6,56,Light,3.0,High,10.0,2.0,Single,2,No,Yes,No,No,12.9,Occasional,Fair,Moderately Severe
+43,Female,4.3,68,None,9.0,Very High,8.0,6.0,Single,2,Yes,No,Yes,No,13.5,Occasional,Poor,Moderately Severe
+59,Non-binary,7.0,68,Light,4.0,Low,9.0,8.0,Divorced,2,No,No,No,No,2.9,Moderate,Good,Mild
+30,Female,,75,Heavy,7.0,Medium,,10.0,Single,10,No,No,No,No,8.4,Occasional,Fair,Mild
+68,Female,6.0,63,Light,9.0,Medium,19.0,,Relationship,7,No,No,No,No,5.6,Occasional,Excellent,Moderate
+49,Female,8.6,75,None,7.0,Very High,12.0,5.0,Single,2,No,No,No,No,6.7,Occasional,Fair,Moderate
+56,Male,4.6,47,Light,9.0,Medium,7.0,4.0,Married,2,Yes,No,Yes,Yes,4.2,Occasional,Fair,Moderate
+66,Female,4.5,66,Moderate,3.0,Low,6.0,3.0,Married,9,No,No,No,No,8.9,None,Fair,Moderately Severe
+69,Female,8.4,34,Moderate,4.0,High,16.0,5.0,Divorced,7,No,Yes,No,No,13.5,Heavy,Poor,Moderate
+49,Female,7.0,25,Moderate,8.0,High,20.0,9.0,Married,3,No,No,Yes,No,8.0,Occasional,Good,Mild
+21,Male,8.1,63,None,6.0,Low,14.0,8.0,Relationship,3,Yes,Yes,Yes,No,3.0,Occasional,Poor,Mild
+47,Male,6.6,78,Moderate,5.0,Very High,19.0,8.0,Single,7,Yes,No,No,No,9.4,None,Excellent,Moderately Severe
+54,Female,,39,Light,4.0,Low,14.0,8.0,Married,5,Yes,No,No,No,6.1,Occasional,Excellent,Moderate
+40,Female,8.9,69,Heavy,8.0,High,0.0,8.0,Relationship,10,No,No,No,No,12.3,None,Good,Mild
+56,Male,8.8,33,Moderate,1.0,Medium,13.0,7.0,Married,6,No,No,Yes,Yes,7.2,None,Good,Mild
+62,Female,8.2,21,None,9.0,High,4.0,8.0,Single,8,No,No,No,No,4.3,Occasional,Good,Mild
+32,Male,5.6,28,None,1.0,Medium,10.0,8.0,Single,9,No,Yes,No,No,4.3,Occasional,Fair,Moderately Severe
+60,Male,7.5,56,None,8.0,Very High,15.0,8.0,Relationship,1,No,No,No,No,11.2,Occasional,Good,Moderate
+46,Male,6.2,39,Light,4.0,High,1.0,10.0,Married,3,No,Yes,No,No,5.2,None,Poor,Mild
+53,Male,4.5,45,Light,,High,7.0,7.0,Married,7,Yes,Yes,Yes,No,11.2,Occasional,Poor,Moderately Severe
+30,Female,9.5,48,Moderate,5.0,High,10.0,1.0,Single,6,No,No,No,No,4.5,None,Fair,Moderate
+49,Male,,20,Light,3.0,High,17.0,4.0,Relationship,7,No,Yes,No,Yes,5.9,Heavy,Good,Severe
+24,Non-binary,9.7,74,Light,9.0,Low,2.0,4.0,Single,8,Yes,Yes,No,No,7.6,Occasional,Excellent,Moderate
+68,Non-binary,6.7,54,None,9.0,Medium,0.0,5.0,Single,6,Yes,No,No,No,13.3,Occasional,Poor,Moderate
+39,Female,5.1,25,None,4.0,Very High,10.0,10.0,Relationship,3,No,No,No,No,13.2,Occasional,Good,Moderately Severe
+45,Female,7.3,56,Heavy,4.0,Low,15.0,6.0,Single,2,No,No,No,No,4.5,None,Fair,Mild
+19,Male,9.2,72,Light,8.0,High,17.0,4.0,Single,7,No,No,No,No,6.3,Heavy,Fair,Moderate
+59,Female,8.4,78,Moderate,2.0,Very High,15.0,2.0,Relationship,1,Yes,No,No,No,3.8,None,Fair,Moderately Severe
+62,Female,8.8,24,Heavy,9.0,Low,9.0,6.0,Single,3,No,No,No,No,8.1,Occasional,Fair,Minimal
+23,Male,8.0,52,Moderate,6.0,High,17.0,8.0,Single,4,No,Yes,No,Yes,7.5,Occasional,Fair,Mild
+45,Female,8.2,68,Heavy,9.0,Medium,5.0,8.0,Single,1,Yes,No,No,No,12.8,None,Good,Minimal
+45,Female,9.1,70,Light,8.0,High,18.0,7.0,Single,5,No,No,No,No,13.2,Moderate,Good,Moderate
+61,Female,5.5,33,Heavy,7.0,Low,3.0,6.0,Single,10,Yes,No,Yes,No,6.6,Occasional,Fair,Mild
+61,Female,,31,None,1.0,Low,12.0,2.0,Married,3,No,No,No,No,7.9,None,Fair,Moderately Severe
+37,Female,5.3,61,None,,High,13.0,7.0,Single,2,Yes,No,Yes,No,12.8,None,Good,Severe
+47,Male,9.9,39,Moderate,,High,2.0,5.0,Single,3,Yes,Yes,No,No,11.7,None,Good,Moderate
+28,Female,9.7,72,Heavy,5.0,High,9.0,6.0,Relationship,8,No,No,No,No,2.0,Moderate,Fair,Mild
+45,Female,4.2,69,Heavy,5.0,High,5.0,10.0,Married,6,Yes,No,No,No,5.8,Occasional,Fair,Moderate
+42,Male,8.2,43,None,,Low,0.0,,Married,7,No,No,No,No,7.1,None,Excellent,Mild
+56,Male,9.6,78,Light,4.0,High,13.0,,Married,6,Yes,Yes,No,No,4.8,None,Good,Moderate
+50,Male,5.1,62,Heavy,5.0,Medium,7.0,3.0,Married,6,No,No,No,No,4.4,Occasional,Fair,Moderate
+18,Female,7.4,53,Light,3.0,Very High,18.0,7.0,Relationship,3,Yes,No,Yes,No,2.5,Occasional,Fair,Moderately Severe
+44,Non-binary,9.5,44,Moderate,1.0,High,13.0,1.0,Married,8,No,Yes,No,No,9.7,Occasional,Good,Moderately Severe
+69,Male,4.2,69,Heavy,5.0,High,9.0,1.0,Married,7,No,Yes,Yes,Yes,5.2,Occasional,Poor,Moderately Severe
+30,Female,8.2,48,Light,9.0,Very High,16.0,7.0,Single,7,Yes,No,No,No,2.6,None,Excellent,Moderate
+58,Male,5.8,76,Light,9.0,Low,8.0,10.0,Single,6,No,No,No,No,4.8,Occasional,Poor,Mild
+20,Non-binary,9.5,58,Light,4.0,High,5.0,,Single,5,Yes,No,No,No,11.6,Heavy,Good,Moderate
+56,Female,9.8,50,Light,3.0,Medium,10.0,7.0,Divorced,10,No,Yes,Yes,No,12.2,None,Fair,Moderately Severe
+23,Female,9.7,75,Heavy,1.0,Very High,6.0,,Relationship,8,No,No,Yes,No,7.8,Occasional,Fair,Moderate
+25,Male,6.8,66,Light,2.0,Medium,16.0,5.0,Married,5,No,No,No,Yes,7.0,Occasional,Excellent,Moderate
+44,Male,9.2,62,Heavy,8.0,High,0.0,8.0,Relationship,9,No,Yes,No,No,13.7,Occasional,Fair,Mild
+26,Male,9.1,69,None,1.0,Very High,4.0,2.0,Relationship,9,No,No,No,No,4.4,None,Good,Moderately Severe
+54,Male,5.9,42,Heavy,8.0,Low,8.0,9.0,Single,1,Yes,Yes,No,No,4.6,Moderate,Poor,Mild
+50,Female,9.0,63,Light,7.0,Medium,17.0,6.0,Single,6,Yes,Yes,No,Yes,5.5,Occasional,Poor,Moderate
+68,Female,4.2,57,None,8.0,High,20.0,9.0,Married,7,No,No,Yes,No,4.1,Occasional,Fair,Moderate
+59,Non-binary,7.6,39,None,6.0,Medium,1.0,2.0,Married,3,No,No,No,No,6.6,Occasional,Good,Mild
+61,Non-binary,5.4,42,Moderate,9.0,Medium,10.0,3.0,Relationship,7,No,Yes,No,No,12.9,None,Poor,Moderately Severe
+41,Female,4.7,64,Moderate,3.0,Medium,5.0,,Married,7,No,No,Yes,No,9.4,None,Poor,Moderate
+32,Female,4.5,71,Heavy,10.0,Low,7.0,1.0,Single,2,No,Yes,No,No,6.9,Moderate,Fair,Mild
+49,Female,8.2,35,None,4.0,Very High,3.0,10.0,Divorced,7,No,Yes,Yes,No,13.2,None,Good,Moderately Severe
+49,Female,,69,None,6.0,High,17.0,7.0,Relationship,1,No,Yes,No,No,2.6,Occasional,Good,Moderate
+41,Male,8.3,61,Moderate,8.0,Low,10.0,7.0,Relationship,5,No,No,Yes,Yes,4.5,Occasional,Fair,Minimal
+58,Male,4.4,79,Light,5.0,Medium,4.0,1.0,Relationship,9,No,No,No,No,8.8,Occasional,Poor,Moderate
+69,Male,5.9,74,Light,3.0,Medium,14.0,9.0,Single,7,Yes,No,Yes,No,9.4,Occasional,Excellent,Moderately Severe
+66,Female,7.2,27,Heavy,6.0,Low,17.0,8.0,Single,7,No,No,No,Yes,2.5,Occasional,Fair,Minimal
+66,Female,8.7,69,Heavy,4.0,Medium,1.0,4.0,Married,2,No,No,No,No,6.8,None,Excellent,Minimal
+69,Male,5.9,40,Heavy,9.0,Medium,10.0,10.0,Married,8,Yes,Yes,No,No,9.8,Occasional,Excellent,Moderate
+29,Female,7.8,20,Moderate,3.0,Medium,12.0,5.0,Married,3,No,No,No,No,10.4,Occasional,Good,Moderate
+56,Female,9.3,74,Light,4.0,High,3.0,2.0,Single,8,No,No,No,No,9.7,Occasional,Fair,Moderate
+19,Male,7.7,27,Light,7.0,Medium,6.0,9.0,Relationship,3,No,No,Yes,No,5.8,None,Good,Minimal
+20,Male,5.4,48,Moderate,7.0,High,10.0,6.0,Single,10,No,Yes,No,No,3.1,Occasional,Good,Moderate
+66,Female,4.1,51,Heavy,4.0,High,3.0,3.0,Single,7,No,No,Yes,No,7.1,None,Good,Moderate
+54,Female,9.2,57,None,6.0,High,14.0,,Married,2,No,Yes,No,No,3.5,None,Fair,Moderate
+66,Female,4.1,24,Light,3.0,High,0.0,9.0,Relationship,4,No,No,No,No,13.4,None,Fair,Moderate
+34,Female,9.2,66,None,6.0,High,2.0,3.0,Single,6,No,No,No,No,7.7,Moderate,Poor,Moderate
+66,Female,7.2,41,Moderate,2.0,Very High,13.0,2.0,Single,9,No,Yes,No,No,5.8,None,Good,Moderately Severe
+19,Female,9.6,66,Heavy,8.0,High,5.0,7.0,Divorced,5,No,No,Yes,Yes,11.2,None,Good,Minimal
+19,Female,8.8,53,Moderate,,High,17.0,7.0,Single,9,No,Yes,Yes,Yes,8.0,None,Fair,Moderately Severe
+45,Female,10.0,20,Light,7.0,High,0.0,4.0,Relationship,5,No,No,Yes,No,5.7,None,Fair,Mild
+40,Male,6.1,74,Heavy,9.0,High,5.0,9.0,Relationship,10,No,No,No,No,11.7,Occasional,Fair,Mild
+54,Male,8.6,74,Moderate,1.0,Medium,5.0,8.0,Single,8,No,Yes,Yes,Yes,12.4,None,Good,Moderate
+49,Male,6.4,45,None,8.0,Medium,20.0,,Single,1,No,Yes,Yes,No,10.1,None,Excellent,Moderately Severe
+50,Female,6.9,62,Light,7.0,Low,15.0,1.0,Relationship,7,No,No,No,Yes,2.6,Occasional,Fair,Moderate
+18,Female,7.8,29,Light,6.0,Very High,4.0,5.0,Married,4,No,Yes,No,No,8.8,Occasional,Fair,Mild
+36,Female,9.2,49,None,,High,16.0,6.0,Relationship,5,No,Yes,No,No,11.2,Moderate,Poor,Moderate
+19,Male,9.9,69,Heavy,6.0,Very High,9.0,3.0,Married,6,No,Yes,No,No,3.6,Occasional,Good,Moderate
+61,Male,8.6,37,Light,9.0,High,20.0,9.0,Divorced,5,No,No,Yes,No,4.7,None,Good,Moderate
+43,Male,6.5,36,Heavy,2.0,Medium,17.0,10.0,Married,1,No,No,No,Yes,12.6,Occasional,Excellent,Mild
+49,Male,6.5,45,Light,1.0,Low,6.0,6.0,Relationship,9,No,Yes,No,No,2.2,None,Fair,Moderate
+23,Female,8.4,27,None,6.0,High,2.0,4.0,Relationship,2,No,Yes,Yes,No,11.0,Occasional,Excellent,Moderate
+49,Male,5.4,66,Light,10.0,High,12.0,7.0,Married,9,Yes,Yes,Yes,No,7.7,Occasional,Poor,Moderately Severe
+21,Male,,59,None,8.0,Very High,14.0,8.0,Married,10,No,Yes,No,No,7.4,None,Good,Severe
+28,Female,6.1,68,Light,3.0,Medium,19.0,9.0,Relationship,2,No,No,No,No,2.1,Occasional,Poor,Moderate
+34,Male,5.7,31,Heavy,10.0,High,18.0,6.0,Married,9,No,No,Yes,No,11.8,Moderate,Excellent,Moderately Severe
+55,Female,5.8,46,Moderate,1.0,High,2.0,6.0,Single,6,No,Yes,No,Yes,6.3,Heavy,Good,Moderate
+41,Female,5.4,27,Moderate,9.0,High,3.0,8.0,Relationship,9,No,No,No,No,8.5,Occasional,Good,Moderate
+22,Male,4.3,44,None,1.0,High,4.0,5.0,Single,6,No,No,No,No,10.1,Occasional,Good,Moderately Severe
+69,Female,4.1,65,None,3.0,High,,3.0,Single,6,Yes,No,No,Yes,10.4,None,Fair,Severe
+51,Female,9.9,23,None,8.0,Medium,3.0,3.0,Single,2,No,No,No,No,13.5,None,Poor,Moderate
+23,Female,6.6,52,Moderate,3.0,High,11.0,6.0,Married,8,No,No,No,No,8.4,Occasional,Excellent,Moderately Severe
+39,Male,6.3,20,None,,High,9.0,2.0,Relationship,3,Yes,Yes,No,No,6.8,Occasional,Fair,Severe
+28,Female,8.1,38,Light,8.0,Very High,20.0,6.0,Single,7,No,Yes,No,No,13.4,Heavy,Poor,Moderately Severe
+65,Female,,50,Moderate,1.0,High,19.0,6.0,Relationship,5,No,Yes,No,No,9.7,Occasional,Fair,Moderately Severe
+33,Male,9.7,35,Light,6.0,Medium,12.0,8.0,Relationship,3,No,Yes,No,No,5.6,Occasional,Good,Mild
+50,Male,8.7,33,None,1.0,Medium,13.0,7.0,Single,1,Yes,No,No,Yes,3.5,Occasional,Poor,Moderate
+26,Non-binary,4.5,72,Light,1.0,Very High,4.0,8.0,Married,8,No,No,No,No,12.1,Moderate,Fair,Moderately Severe
+23,Female,6.5,67,Heavy,8.0,High,3.0,9.0,Married,3,No,No,Yes,Yes,6.3,Occasional,Poor,Minimal
+33,Male,9.3,24,Moderate,4.0,Very High,13.0,6.0,Married,2,No,No,No,No,9.9,Occasional,Fair,Mild
+46,Female,9.7,60,Light,1.0,Low,9.0,3.0,Married,1,No,No,No,No,7.6,Occasional,Excellent,Mild
+20,Male,6.8,45,None,10.0,High,16.0,10.0,Relationship,4,No,No,No,No,4.4,Moderate,Excellent,Moderate
+37,Male,7.7,47,Heavy,7.0,High,9.0,3.0,Single,8,No,Yes,Yes,No,9.2,None,Good,Moderate
+53,Male,5.0,21,Moderate,5.0,Very High,6.0,1.0,Single,3,No,Yes,No,No,2.7,Moderate,Fair,Moderately Severe
+36,Male,9.9,69,Light,5.0,Medium,15.0,5.0,Single,1,No,No,No,No,7.0,Occasional,Excellent,Mild
+43,Male,5.4,25,Heavy,1.0,High,0.0,4.0,Divorced,4,No,Yes,Yes,No,8.6,Occasional,Good,Moderate
+20,Male,9.7,28,Light,10.0,High,16.0,9.0,Single,9,No,No,No,No,7.2,Occasional,Fair,Moderate
+36,Female,7.9,52,Moderate,6.0,Low,20.0,9.0,Single,1,Yes,Yes,Yes,No,11.0,Occasional,Excellent,Mild
+37,Male,7.6,60,Moderate,9.0,High,8.0,5.0,Married,2,Yes,No,Yes,Yes,11.9,None,Good,Moderate
+49,Male,7.1,44,Light,9.0,High,5.0,10.0,Divorced,9,Yes,No,No,No,11.3,Moderate,Good,Moderate
+24,Female,5.4,67,Heavy,8.0,Very High,18.0,4.0,Married,2,Yes,Yes,No,Yes,2.5,Occasional,Good,Moderately Severe
+69,Male,5.1,32,Moderate,5.0,Medium,12.0,7.0,Single,3,No,No,No,No,4.3,Occasional,Fair,Mild
+58,Female,5.3,28,Moderate,1.0,Medium,2.0,6.0,Single,7,Yes,Yes,Yes,No,8.4,None,Fair,Moderate
+50,Male,5.1,72,None,9.0,Low,6.0,4.0,Relationship,3,No,No,No,No,13.2,Occasional,Good,Moderate
+57,Male,8.7,32,None,1.0,Medium,8.0,10.0,Single,9,No,No,Yes,Yes,12.0,Occasional,Fair,Moderately Severe
+56,Male,,50,Light,8.0,Medium,,2.0,Single,6,No,No,Yes,Yes,12.1,Occasional,Fair,Moderate
+35,Male,4.3,60,Moderate,5.0,High,9.0,1.0,Relationship,3,Yes,No,Yes,No,5.6,Occasional,Good,Moderately Severe
+57,Male,9.8,30,Light,,Medium,,4.0,Divorced,9,No,Yes,No,No,7.2,Occasional,Good,Moderately Severe
+18,Male,9.3,23,Moderate,7.0,Very High,11.0,4.0,Relationship,1,No,No,No,No,7.6,Heavy,Fair,Mild
+28,Male,9.6,53,Moderate,7.0,Very High,15.0,,Married,10,No,No,No,No,3.9,Occasional,Good,Moderate
+45,Male,10.0,57,None,9.0,High,2.0,6.0,Married,3,No,No,No,No,2.4,Moderate,Good,Mild
+42,Male,5.0,65,Moderate,7.0,Very High,8.0,4.0,Single,1,No,Yes,Yes,No,13.4,None,Good,Moderately Severe
+67,Male,6.4,23,None,,High,,1.0,Married,2,No,No,No,No,4.9,Occasional,Fair,Moderately Severe
+40,Male,8.5,57,Heavy,1.0,High,4.0,1.0,Single,8,No,No,No,No,4.9,Occasional,Fair,Moderate
+48,Female,8.2,38,Light,8.0,Low,12.0,1.0,Single,7,No,Yes,No,No,3.0,Occasional,Fair,Moderate
+47,Female,4.9,25,None,3.0,Medium,13.0,8.0,Married,2,Yes,No,Yes,No,13.1,Moderate,Poor,Moderately Severe
+59,Male,8.9,53,Light,8.0,High,19.0,10.0,Single,2,No,Yes,No,Yes,9.0,None,Fair,Moderate
+52,Female,5.3,37,Light,8.0,Very High,14.0,8.0,Divorced,9,Yes,No,No,No,10.0,None,Fair,Moderately Severe
+24,Female,5.3,32,Moderate,5.0,Medium,15.0,2.0,Single,6,No,No,No,Yes,12.9,Moderate,Fair,Moderately Severe
+33,Male,7.2,60,Moderate,1.0,Very High,12.0,7.0,Married,5,No,No,No,No,6.1,None,Excellent,Moderate
+43,Female,7.6,42,Moderate,10.0,High,,8.0,Relationship,10,No,No,Yes,No,9.5,Occasional,Poor,Mild
+65,Female,7.5,38,None,7.0,Low,,8.0,Single,6,No,No,No,No,2.5,Occasional,Good,Mild
+69,Male,4.5,64,None,10.0,Very High,,10.0,Single,9,No,Yes,Yes,Yes,4.2,Moderate,Good,Severe
+66,Male,9.3,30,None,5.0,High,1.0,7.0,Married,7,No,Yes,No,No,12.0,None,Poor,Moderate
+19,Female,5.6,20,Moderate,8.0,Medium,4.0,5.0,Married,10,No,No,No,Yes,11.2,None,Excellent,Moderate
+18,Female,4.8,43,Heavy,9.0,High,5.0,1.0,Married,10,No,Yes,Yes,Yes,6.2,Occasional,Good,Moderate
+65,Male,9.3,73,Light,7.0,Low,11.0,9.0,Relationship,9,Yes,Yes,No,No,6.5,Heavy,Fair,Moderate
+29,Male,9.7,26,None,7.0,High,17.0,,Married,4,No,No,No,No,8.4,Occasional,Good,Mild
+22,Male,9.2,44,Moderate,1.0,Medium,0.0,2.0,Married,2,No,Yes,Yes,No,2.0,Occasional,Fair,Moderate
+54,Female,8.9,40,Heavy,4.0,Medium,16.0,6.0,Married,8,Yes,Yes,No,No,4.9,Occasional,Good,Moderate
+49,Female,7.9,34,Moderate,2.0,Very High,10.0,2.0,Relationship,4,No,No,Yes,No,4.5,Heavy,Poor,Moderate
+26,Male,7.3,20,Heavy,2.0,High,9.0,1.0,Married,9,Yes,Yes,No,Yes,5.0,Moderate,Good,Moderately Severe
+58,Male,4.5,31,Light,2.0,Medium,18.0,7.0,Married,4,No,No,No,No,11.7,Heavy,Fair,Moderately Severe
+52,Female,6.5,77,None,4.0,Medium,13.0,2.0,Relationship,8,No,No,No,No,5.4,None,Good,Moderately Severe
+36,Male,6.2,26,Heavy,1.0,Very High,9.0,2.0,Married,9,No,No,No,No,4.3,None,Fair,Moderately Severe
+65,Male,5.6,34,Moderate,4.0,Low,14.0,5.0,Married,9,Yes,Yes,No,No,8.1,Occasional,Good,Moderately Severe
+33,Female,8.3,40,Light,2.0,Medium,18.0,,Single,10,Yes,No,No,No,12.4,Moderate,Good,Moderately Severe
+20,Female,7.0,38,Moderate,5.0,Low,3.0,,Single,4,Yes,No,Yes,No,4.9,None,Fair,Mild
+37,Female,4.5,79,Heavy,3.0,Low,1.0,1.0,Relationship,1,No,No,No,No,2.9,None,Good,Mild
+41,Female,,48,Moderate,8.0,High,8.0,8.0,Relationship,3,No,Yes,No,No,6.3,Moderate,Fair,Moderate
+50,Male,8.1,44,Moderate,4.0,High,9.0,3.0,Married,9,No,No,Yes,Yes,11.0,None,Excellent,Moderately Severe
+41,Male,4.5,52,Light,1.0,Medium,10.0,4.0,Single,4,No,No,No,No,8.6,Occasional,Fair,Moderate
+69,Female,9.1,68,Moderate,1.0,High,13.0,,Married,5,No,No,No,No,11.8,Occasional,Good,Moderate
+28,Male,7.0,51,Moderate,10.0,Medium,6.0,4.0,Married,7,No,No,No,No,13.5,Occasional,Good,Mild
+66,Male,6.9,68,Heavy,3.0,Very High,14.0,,Single,5,No,No,Yes,Yes,11.5,Moderate,Fair,Moderate
+25,Male,7.6,54,Heavy,9.0,Very High,18.0,5.0,Married,4,No,No,Yes,Yes,9.2,Occasional,Fair,Mild
+53,Male,8.9,63,Heavy,7.0,Medium,14.0,7.0,Divorced,2,No,Yes,Yes,No,7.9,Occasional,Fair,Minimal
+55,Male,6.1,57,None,2.0,Very High,7.0,4.0,Married,2,No,No,No,Yes,2.5,Occasional,Good,Moderately Severe
+57,Male,8.1,45,Moderate,9.0,High,10.0,1.0,Married,4,Yes,Yes,Yes,No,13.8,Occasional,Fair,Moderate
+37,Male,7.4,30,Moderate,10.0,Medium,8.0,9.0,Divorced,10,No,No,No,No,6.6,Occasional,Good,Mild
+52,Male,5.6,54,Moderate,2.0,Medium,,4.0,Married,10,Yes,Yes,Yes,No,3.8,None,Good,Severe
+65,Female,9.3,27,Moderate,3.0,Medium,0.0,,Relationship,9,No,No,No,No,10.0,None,Fair,Mild
+42,Female,8.8,65,Heavy,10.0,High,0.0,6.0,Married,8,No,Yes,No,No,5.4,None,Good,Mild
+52,Female,8.0,33,Light,2.0,Very High,18.0,1.0,Married,3,No,No,No,No,9.0,None,Fair,Moderately Severe
+42,Female,9.1,29,Moderate,3.0,High,2.0,3.0,Married,9,No,No,Yes,Yes,9.0,Occasional,Poor,Moderate
+46,Female,9.2,21,None,6.0,Very High,9.0,2.0,Single,5,Yes,Yes,No,Yes,7.3,Moderate,Good,Moderately Severe
+35,Male,8.3,65,Light,9.0,High,7.0,9.0,Married,3,No,Yes,Yes,No,12.0,Moderate,Poor,Mild
+63,Female,9.0,28,Moderate,9.0,High,14.0,1.0,Single,5,No,Yes,No,No,5.2,Moderate,Fair,Moderate
+35,Female,8.2,22,Moderate,7.0,High,9.0,9.0,Divorced,10,No,No,No,No,7.4,Occasional,Excellent,Moderate
+19,Female,8.1,40,Light,,Medium,0.0,9.0,Relationship,4,No,No,Yes,No,8.5,Occasional,Fair,Mild
+52,Male,7.7,45,None,4.0,High,17.0,8.0,Single,8,No,No,No,No,10.0,Occasional,Excellent,Moderately Severe
+33,Male,8.5,27,Moderate,6.0,High,1.0,8.0,Relationship,5,No,Yes,No,Yes,11.4,None,Excellent,Mild
+58,Male,5.0,67,None,5.0,Low,18.0,1.0,Single,10,No,No,Yes,No,6.7,None,Fair,Moderately Severe
+53,Male,9.3,21,None,2.0,High,12.0,8.0,Married,8,Yes,No,No,No,9.8,Occasional,Poor,Moderately Severe
+50,Female,9.2,25,None,6.0,Low,0.0,10.0,Divorced,9,No,No,Yes,No,3.8,Heavy,Good,Mild
+21,Female,4.2,47,None,3.0,High,1.0,3.0,Married,4,No,No,No,No,13.2,None,Fair,Moderately Severe
+50,Male,,72,None,8.0,High,15.0,7.0,Single,7,No,Yes,No,Yes,6.6,None,Poor,Moderate
+31,Non-binary,4.8,48,Light,2.0,Medium,14.0,1.0,Single,2,No,Yes,Yes,No,10.8,Moderate,Good,Severe
+38,Female,6.0,45,Light,,Medium,12.0,,Married,6,No,Yes,No,No,2.2,None,Poor,Moderately Severe
+65,Male,8.5,44,Heavy,9.0,Medium,15.0,10.0,Divorced,8,No,Yes,No,Yes,4.5,Moderate,Excellent,Mild
+37,Male,5.0,31,Moderate,3.0,Very High,16.0,5.0,Relationship,7,No,Yes,No,No,7.8,Moderate,Poor,Moderately Severe
+25,Male,8.9,24,Moderate,1.0,Low,20.0,5.0,Relationship,7,Yes,Yes,No,No,12.5,Heavy,Poor,Moderately Severe
+24,Male,9.0,53,None,7.0,Very High,6.0,8.0,Relationship,8,No,No,No,No,8.3,Occasional,Fair,Moderate
+20,Male,,67,Light,10.0,Low,16.0,7.0,Married,7,Yes,No,No,No,13.2,Occasional,Excellent,Moderate
+34,Male,4.0,56,Moderate,5.0,Very High,6.0,8.0,Married,5,Yes,No,No,Yes,7.8,Occasional,Good,Moderate
+50,Male,5.7,34,None,5.0,Very High,12.0,6.0,Single,7,No,No,No,No,7.9,Occasional,Good,Moderately Severe
+65,Male,7.7,63,Light,1.0,Medium,4.0,6.0,Single,10,No,No,No,No,3.4,Occasional,Fair,Moderate
+29,Female,9.9,55,Moderate,9.0,High,16.0,2.0,Married,3,No,Yes,No,No,11.6,None,Fair,Moderate
+68,Male,7.8,34,Moderate,7.0,Medium,2.0,6.0,Single,5,No,No,No,Yes,5.0,Occasional,Fair,Minimal
+39,Female,5.6,62,None,8.0,High,6.0,5.0,Relationship,7,No,Yes,No,No,12.8,Occasional,Fair,Moderately Severe
+39,Male,7.8,67,Light,9.0,Low,16.0,3.0,Married,9,No,No,No,No,12.9,Moderate,Good,Moderate
+63,Non-binary,7.2,42,Moderate,6.0,Low,6.0,6.0,Single,2,No,Yes,No,No,13.3,Moderate,Good,Minimal
+47,Male,8.7,25,None,5.0,Low,20.0,,Single,4,No,No,No,No,8.2,Occasional,Fair,Moderate
+55,Male,4.6,65,Moderate,6.0,Medium,0.0,9.0,Married,7,No,Yes,No,Yes,10.1,None,Excellent,Moderate
+55,Non-binary,8.6,69,Moderate,2.0,Medium,16.0,1.0,Married,1,No,Yes,No,No,11.3,Moderate,Fair,Moderately Severe
+62,Female,7.2,63,Heavy,4.0,High,,3.0,Married,2,No,No,Yes,Yes,3.6,Occasional,Excellent,Moderate
+68,Female,9.8,78,Light,3.0,Very High,10.0,3.0,Married,9,Yes,Yes,No,No,9.2,Moderate,Poor,Severe
+25,Male,6.1,62,Heavy,7.0,Medium,2.0,8.0,Married,10,No,No,No,No,2.4,Heavy,Fair,Mild
+44,Male,7.8,64,Moderate,9.0,High,14.0,1.0,Married,7,No,No,No,No,8.0,None,Fair,Moderate
+44,Female,,40,Light,5.0,Medium,20.0,5.0,Relationship,10,No,No,Yes,No,3.9,Moderate,Fair,Moderate
+51,Female,4.6,42,None,6.0,High,10.0,3.0,Married,7,Yes,No,Yes,No,4.2,None,Good,Moderately Severe
+38,Female,9.6,62,Moderate,10.0,Very High,15.0,2.0,Divorced,6,No,No,No,No,6.4,Occasional,Fair,Moderate
+47,Female,8.1,74,Light,2.0,Very High,8.0,8.0,Single,3,No,Yes,No,Yes,7.2,Occasional,Fair,Moderate
+50,Male,4.4,35,Light,3.0,Very High,0.0,3.0,Relationship,10,No,No,Yes,Yes,9.5,None,Good,Moderately Severe
+45,Female,5.8,66,None,3.0,Low,15.0,7.0,Relationship,3,Yes,No,No,No,2.9,Moderate,Good,Moderate
+64,Male,8.2,72,Heavy,9.0,High,8.0,1.0,Single,2,No,No,No,Yes,8.0,None,Good,Mild
+50,Male,4.4,79,Moderate,7.0,High,18.0,6.0,Single,6,No,Yes,Yes,No,4.2,None,Fair,Moderate
+22,Male,7.5,34,Moderate,8.0,Medium,11.0,3.0,Married,4,No,No,No,No,8.9,Occasional,Good,Mild
+65,Female,6.1,44,Light,10.0,Very High,18.0,8.0,Divorced,5,Yes,No,No,No,9.6,Moderate,Good,Moderate
+36,Male,7.7,55,None,9.0,Low,8.0,6.0,Relationship,3,No,No,No,No,8.7,Heavy,Fair,Minimal
+21,Male,4.3,30,Moderate,6.0,High,6.0,2.0,Single,6,No,No,No,No,10.9,Moderate,Fair,Moderate
+52,Female,9.2,70,Light,4.0,Medium,13.0,6.0,Single,3,Yes,Yes,No,No,6.0,Occasional,Fair,Moderate
+66,Male,9.8,34,None,1.0,Medium,18.0,7.0,Married,8,Yes,No,No,No,11.2,Occasional,Poor,Severe
+34,Female,9.8,23,Moderate,8.0,High,18.0,5.0,Relationship,9,No,No,No,No,7.2,None,Fair,Moderate
+61,Male,8.5,40,Heavy,7.0,High,1.0,3.0,Relationship,4,Yes,No,Yes,Yes,7.8,None,Poor,Mild
+45,Female,4.8,32,Moderate,2.0,Medium,8.0,,Relationship,9,Yes,No,Yes,No,9.8,Occasional,Good,Moderately Severe
+47,Female,8.5,41,Moderate,8.0,Medium,12.0,4.0,Relationship,7,No,Yes,No,No,2.2,Occasional,Good,Mild
+46,Male,4.1,38,Heavy,5.0,High,14.0,6.0,Relationship,3,No,No,No,No,9.8,Occasional,Excellent,Moderate
+63,Male,4.1,53,Light,7.0,Low,2.0,10.0,Married,7,Yes,No,Yes,Yes,9.4,Moderate,Good,Mild
+23,Male,5.9,33,Moderate,4.0,Medium,10.0,1.0,Married,1,No,No,No,Yes,5.7,Occasional,Poor,Moderate
+52,Male,6.9,23,Heavy,5.0,Very High,20.0,4.0,Married,3,Yes,No,Yes,No,3.0,None,Excellent,Moderately Severe
+58,Non-binary,8.6,67,None,8.0,High,13.0,10.0,Relationship,6,Yes,Yes,No,No,3.1,None,Excellent,Moderately Severe
+54,Male,8.1,72,Moderate,1.0,Medium,7.0,4.0,Married,4,Yes,No,No,No,13.1,Moderate,Fair,Moderate
+41,Female,6.7,71,Moderate,1.0,High,17.0,10.0,Married,7,No,Yes,No,No,10.3,Moderate,Good,Moderately Severe
+46,Male,5.6,65,Moderate,4.0,High,18.0,1.0,Single,3,Yes,No,No,No,3.5,Moderate,Excellent,Moderately Severe
+66,Female,10.0,46,Moderate,3.0,Very High,15.0,9.0,Married,1,Yes,No,Yes,No,6.3,None,Good,Moderate
+63,Female,6.6,48,Heavy,10.0,High,1.0,4.0,Single,9,No,No,No,No,9.1,Heavy,Excellent,Mild
+48,Female,6.7,66,Moderate,2.0,Medium,7.0,7.0,Married,6,No,No,Yes,Yes,12.0,None,Poor,Moderate
+52,Male,5.0,47,None,3.0,Medium,5.0,3.0,Relationship,8,No,No,No,No,2.5,None,Fair,Moderately Severe
+50,Male,8.8,54,Heavy,1.0,Medium,11.0,10.0,Divorced,3,No,No,Yes,No,4.8,Heavy,Fair,Mild
+69,Male,8.2,27,Light,1.0,High,14.0,3.0,Single,8,Yes,No,No,No,12.7,None,Good,Severe
+38,Female,5.3,35,Light,,Low,7.0,8.0,Married,2,No,Yes,No,No,2.1,Occasional,Good,Mild
+49,Female,4.5,61,Light,5.0,High,3.0,8.0,Married,4,No,Yes,No,No,4.4,None,Excellent,Moderate
+40,Non-binary,8.1,55,Light,8.0,Medium,14.0,1.0,Married,3,No,Yes,No,No,13.5,Occasional,Fair,Moderate
+50,Male,7.9,49,Light,,Medium,19.0,10.0,Relationship,10,No,No,No,No,9.4,Heavy,Poor,Moderate
+20,Female,5.6,37,Heavy,4.0,Very High,16.0,2.0,Relationship,1,No,Yes,Yes,No,5.1,Occasional,Good,Moderately Severe
+35,Female,9.7,21,Moderate,8.0,Medium,12.0,8.0,Married,7,Yes,No,Yes,Yes,2.8,Occasional,Good,Mild
+42,Male,4.9,68,Moderate,6.0,Low,17.0,1.0,Single,10,No,No,No,Yes,2.3,None,Fair,Moderate
+59,Male,6.6,32,None,1.0,High,1.0,8.0,Single,2,Yes,No,Yes,No,4.9,Occasional,Fair,Moderate
+48,Female,9.7,23,Heavy,4.0,Low,12.0,8.0,Married,4,No,No,Yes,No,12.6,Occasional,Good,Minimal
+20,Female,6.5,45,Heavy,1.0,High,12.0,2.0,Relationship,9,No,No,No,No,7.0,None,Good,Moderately Severe
+57,Female,7.8,44,Moderate,2.0,High,14.0,4.0,Single,6,No,Yes,No,No,10.6,Occasional,Fair,Moderately Severe
+63,Male,6.4,49,None,5.0,Medium,19.0,,Single,8,No,No,No,No,13.0,None,Fair,Moderately Severe
+41,Female,5.6,30,None,8.0,High,9.0,9.0,Single,2,No,No,No,No,6.9,Heavy,Excellent,Moderate
+67,Male,9.9,26,Light,8.0,High,2.0,8.0,Married,7,No,Yes,No,Yes,4.3,Occasional,Good,Mild
+49,Male,6.5,50,None,3.0,Medium,18.0,8.0,Married,6,No,No,Yes,Yes,8.2,None,Fair,Moderately Severe
+64,Male,9.4,63,Light,4.0,Low,2.0,7.0,Married,9,No,No,No,No,12.9,Occasional,Fair,Moderate
+39,Female,5.4,29,Heavy,10.0,Medium,13.0,9.0,Divorced,7,No,No,No,Yes,11.7,Occasional,Good,Moderate
+40,Female,5.3,58,Light,6.0,Very High,7.0,2.0,Relationship,1,No,Yes,No,No,2.8,Moderate,Fair,Moderately Severe
+19,Female,4.2,32,None,10.0,Medium,3.0,3.0,Single,8,No,No,Yes,No,10.3,Heavy,Fair,Moderately Severe
+44,Male,7.9,50,Light,3.0,High,19.0,10.0,Single,10,No,Yes,No,No,8.9,Occasional,Good,Moderately Severe
+59,Female,6.2,26,None,2.0,High,10.0,,Single,3,No,Yes,Yes,Yes,12.9,Moderate,Fair,Moderately Severe
+19,Male,9.2,75,None,6.0,High,10.0,6.0,Divorced,2,No,No,Yes,No,3.5,Occasional,Good,Mild
+43,Female,6.8,68,Light,5.0,Low,10.0,10.0,Relationship,3,Yes,No,Yes,No,8.4,None,Poor,Mild
+34,Male,9.8,61,Light,10.0,Medium,1.0,9.0,Single,6,No,No,No,No,12.6,Occasional,Good,Mild
+57,Male,5.1,61,Moderate,5.0,High,16.0,10.0,Relationship,3,No,Yes,No,No,6.9,Occasional,Fair,Moderate
+50,Male,9.2,75,Heavy,10.0,Medium,8.0,4.0,Married,10,No,No,No,Yes,7.8,Occasional,Poor,Mild
+26,Male,8.7,55,Light,5.0,Medium,1.0,8.0,Married,5,No,No,No,No,2.8,Moderate,Poor,Minimal
+60,Female,8.6,39,Light,10.0,Low,14.0,10.0,Single,6,Yes,Yes,No,No,5.3,Occasional,Excellent,Moderate
+65,Female,9.1,23,Heavy,,Medium,15.0,3.0,Divorced,8,No,No,Yes,No,5.9,Heavy,Excellent,Moderate
+56,Male,8.6,73,Light,3.0,Very High,3.0,3.0,Relationship,7,No,Yes,Yes,No,13.3,Moderate,Fair,Moderately Severe
+46,Female,7.8,26,None,7.0,Low,7.0,8.0,Single,8,No,No,No,No,5.4,Occasional,Good,Mild
+59,Male,4.8,73,Heavy,6.0,Low,8.0,5.0,Married,3,No,No,No,Yes,7.5,Occasional,Good,Minimal
+43,Female,4.2,20,None,4.0,Medium,4.0,3.0,Single,4,Yes,Yes,No,No,10.1,Occasional,Excellent,Moderately Severe
+52,Female,9.5,63,Moderate,2.0,High,15.0,10.0,Divorced,6,Yes,Yes,Yes,No,3.9,Heavy,Fair,Moderate
+67,Female,7.7,75,Moderate,9.0,High,12.0,,Divorced,7,No,Yes,Yes,No,7.8,Occasional,Good,Moderate
+42,Male,8.8,64,Light,1.0,Medium,6.0,,Married,9,No,Yes,Yes,No,10.9,None,Poor,Moderately Severe
+41,Female,6.9,61,Light,4.0,High,19.0,9.0,Married,1,No,No,No,No,12.4,Occasional,Fair,Moderately Severe
+30,Female,4.7,66,Moderate,,High,16.0,5.0,Relationship,8,Yes,No,No,No,9.5,Occasional,Excellent,Severe
+24,Male,4.8,78,None,6.0,Very High,2.0,10.0,Divorced,8,No,Yes,No,Yes,10.0,None,Good,Moderately Severe
+53,Male,8.1,32,Light,,High,4.0,2.0,Relationship,6,No,Yes,No,No,3.5,None,Fair,Moderate
+62,Female,6.6,74,Moderate,5.0,Medium,18.0,,Married,4,No,No,No,No,13.3,Occasional,Poor,Moderate
+37,Female,5.2,41,Moderate,5.0,Medium,11.0,2.0,Divorced,3,Yes,No,No,No,3.6,Occasional,Good,Moderate
+18,Female,6.9,73,None,9.0,Low,6.0,4.0,Divorced,3,No,Yes,Yes,No,11.3,Occasional,Good,Moderate
+25,Female,4.4,40,Heavy,1.0,Medium,8.0,7.0,Married,6,No,Yes,No,No,5.2,None,Fair,Moderate
+63,Female,7.5,41,Light,2.0,Very High,5.0,4.0,Relationship,8,No,No,No,No,13.2,None,Excellent,Moderately Severe
+33,Male,5.6,47,Heavy,6.0,Medium,16.0,7.0,Divorced,7,No,Yes,Yes,No,10.6,Occasional,Poor,Moderate
+31,Male,8.8,28,Moderate,5.0,Medium,15.0,7.0,Married,1,No,Yes,No,No,11.0,Occasional,Fair,Moderate
+29,Male,5.9,45,Moderate,7.0,High,2.0,1.0,Divorced,6,No,No,No,No,4.6,None,Excellent,Moderate
+68,Female,6.7,28,Light,3.0,High,20.0,6.0,Married,7,No,No,No,No,7.3,Occasional,Fair,Moderately Severe
+40,Male,4.1,34,Heavy,3.0,Low,3.0,9.0,Relationship,7,Yes,No,No,No,9.4,Occasional,Fair,Mild
+32,Female,4.4,29,None,10.0,Medium,9.0,2.0,Relationship,9,No,No,No,Yes,11.2,None,Good,Moderately Severe
+45,Female,6.4,43,Moderate,2.0,Medium,4.0,3.0,Married,10,Yes,No,No,No,3.2,None,Good,Moderately Severe
+51,Female,6.9,77,None,3.0,High,20.0,10.0,Married,5,No,Yes,Yes,No,13.5,None,Poor,Moderately Severe
+19,Male,7.6,76,Light,10.0,Low,9.0,5.0,Relationship,1,No,No,Yes,Yes,12.7,Moderate,Excellent,Mild
+49,Female,5.7,61,Light,1.0,Medium,11.0,9.0,Married,2,No,Yes,Yes,No,5.2,Moderate,Good,Moderate
+40,Male,8.2,27,Heavy,5.0,High,9.0,4.0,Relationship,4,No,Yes,Yes,No,11.9,Moderate,Fair,Moderate
+39,Female,9.2,43,Heavy,5.0,Medium,12.0,1.0,Married,5,Yes,No,No,No,8.2,Moderate,Good,Mild
+68,Male,8.7,35,None,7.0,High,10.0,4.0,Relationship,9,No,No,No,No,7.5,Occasional,Fair,Moderate
+42,Male,4.2,68,None,4.0,Medium,15.0,6.0,Single,1,No,No,Yes,Yes,5.8,Occasional,Fair,Moderate
+39,Female,6.9,45,Moderate,3.0,Medium,7.0,5.0,Single,3,Yes,No,No,No,9.0,Occasional,Good,Moderate
+39,Male,4.6,46,Light,1.0,Very High,7.0,1.0,Single,5,No,Yes,Yes,No,10.8,None,Excellent,Severe
+66,Male,5.5,56,None,8.0,High,,4.0,Relationship,3,Yes,Yes,No,No,6.9,Occasional,Poor,Moderately Severe
+69,Female,9.9,23,Moderate,3.0,Low,12.0,6.0,Single,4,No,No,Yes,No,9.6,Moderate,Fair,Minimal
+59,Female,4.9,69,Moderate,,High,1.0,10.0,Single,3,No,No,No,No,10.4,Occasional,Fair,Moderate
+23,Female,7.0,43,Heavy,4.0,High,11.0,10.0,Divorced,4,Yes,No,Yes,No,10.5,Occasional,Fair,Mild
+32,Female,7.7,38,Light,3.0,High,9.0,4.0,Married,1,No,No,No,No,2.6,None,Fair,Moderate
+60,Female,8.2,55,Light,,Low,,9.0,Relationship,8,Yes,No,No,No,12.3,Occasional,Poor,Moderate
+54,Male,7.4,79,Moderate,3.0,Very High,10.0,5.0,Divorced,4,Yes,No,No,No,7.5,Occasional,Good,Moderate
+50,Male,4.1,58,Moderate,2.0,Medium,14.0,8.0,Single,7,Yes,Yes,Yes,Yes,5.1,Moderate,Fair,Moderately Severe
+25,Male,6.0,29,Moderate,8.0,Low,15.0,9.0,Married,2,No,No,Yes,Yes,4.9,Occasional,Fair,Mild
+61,Female,7.1,44,Moderate,6.0,Low,16.0,10.0,Married,2,No,No,Yes,No,7.8,Moderate,Good,Mild
+61,Female,4.5,37,Light,9.0,Low,1.0,5.0,Relationship,6,No,Yes,No,No,12.6,Occasional,Good,Moderate
+22,Male,,38,Heavy,8.0,High,17.0,6.0,Relationship,2,Yes,No,Yes,No,6.5,Moderate,Fair,Mild
+56,Male,4.2,55,Light,10.0,Low,11.0,1.0,Relationship,6,Yes,Yes,No,Yes,11.0,Occasional,Fair,Moderately Severe
+21,Female,4.5,29,None,3.0,Low,,7.0,Relationship,2,No,No,No,Yes,3.2,Occasional,Good,Moderate
+23,Male,6.4,52,Moderate,5.0,Very High,17.0,4.0,Married,4,No,Yes,No,No,7.7,Occasional,Fair,Moderately Severe
+62,Female,4.8,74,Light,7.0,Medium,16.0,2.0,Single,7,No,No,No,No,13.9,Moderate,Fair,Moderately Severe
+49,Female,7.4,69,None,5.0,Low,5.0,5.0,Single,8,Yes,Yes,Yes,No,11.2,Heavy,Good,Moderately Severe
+69,Female,8.1,24,Heavy,8.0,Low,14.0,3.0,Single,3,No,No,Yes,No,4.5,None,Poor,Mild
+47,Male,,66,Light,5.0,Low,2.0,6.0,Single,9,No,Yes,No,No,8.0,None,Poor,Mild
+64,Female,5.2,68,Moderate,1.0,Medium,5.0,8.0,Relationship,2,No,Yes,No,No,4.8,Heavy,Poor,Mild
+52,Female,5.0,54,Light,,High,2.0,7.0,Single,8,No,No,Yes,No,6.9,Occasional,Fair,Moderate
+57,Female,4.6,63,Moderate,4.0,Low,0.0,3.0,Married,8,Yes,No,Yes,No,11.4,Occasional,Poor,Moderate
+69,Female,7.8,53,None,6.0,Low,12.0,8.0,Single,4,No,Yes,No,No,11.3,Occasional,Excellent,Mild
+33,Female,8.2,52,Light,3.0,High,20.0,2.0,Single,1,No,Yes,Yes,No,4.7,None,Fair,Moderately Severe
+30,Female,4.2,74,Heavy,5.0,High,13.0,10.0,Married,1,No,No,No,Yes,13.1,Moderate,Poor,Moderate
+67,Male,9.6,40,Moderate,2.0,Medium,12.0,9.0,Single,2,No,No,No,No,9.1,Moderate,Fair,Mild
+59,Female,,36,Light,6.0,High,3.0,4.0,Married,9,No,No,Yes,No,6.6,Occasional,Excellent,Moderate
+47,Female,7.2,41,Light,6.0,Medium,6.0,1.0,Married,2,No,Yes,Yes,No,8.0,Occasional,Good,Mild
+36,Male,8.3,67,Heavy,5.0,Medium,9.0,8.0,Single,2,No,No,Yes,Yes,9.3,Moderate,Fair,Minimal
+34,Female,9.2,56,Moderate,6.0,High,6.0,7.0,Single,6,No,Yes,No,No,8.7,None,Excellent,Mild
+36,Female,,34,Moderate,7.0,Medium,20.0,5.0,Relationship,7,No,Yes,No,No,7.8,Moderate,Fair,Moderate
+45,Female,8.8,54,Moderate,5.0,Very High,14.0,,Single,7,No,No,No,No,8.1,None,Fair,Moderate
+43,Male,6.0,47,None,1.0,Low,14.0,5.0,Single,9,No,No,No,No,4.1,Occasional,Fair,Moderately Severe
+54,Male,8.9,26,None,8.0,High,3.0,7.0,Single,6,Yes,No,No,No,11.8,Heavy,Fair,Moderate
+43,Non-binary,4.5,51,Moderate,4.0,Low,5.0,5.0,Single,8,No,Yes,Yes,No,8.5,Occasional,Fair,Moderate
+40,Female,9.4,30,None,9.0,High,19.0,8.0,Relationship,6,No,No,Yes,No,3.6,Occasional,Good,Moderate
+26,Male,7.3,29,Light,10.0,High,4.0,6.0,Married,2,Yes,No,No,No,11.2,Occasional,Fair,Mild
+29,Female,8.9,28,Heavy,6.0,High,19.0,5.0,Married,1,No,No,Yes,No,13.2,Occasional,Good,Mild
+18,Female,6.7,33,Moderate,1.0,Low,11.0,9.0,Single,5,No,Yes,Yes,No,13.4,None,Poor,Moderate
+18,Female,7.9,32,Moderate,3.0,High,0.0,2.0,Single,9,No,Yes,No,No,6.4,Heavy,Fair,Moderately Severe
+64,Female,7.2,76,Moderate,3.0,High,7.0,1.0,Married,8,No,No,No,No,3.6,Moderate,Fair,Moderately Severe
+51,Male,8.4,44,Moderate,10.0,High,0.0,8.0,Married,4,No,No,No,No,8.2,Occasional,Excellent,Minimal
+49,Male,4.5,21,None,4.0,High,4.0,3.0,Married,5,No,Yes,No,No,3.4,Occasional,Fair,Moderately Severe
+65,Male,4.4,54,Light,6.0,High,5.0,7.0,Relationship,5,No,No,Yes,No,13.2,None,Good,Moderate
+42,Female,5.5,26,Light,7.0,Medium,20.0,10.0,Married,6,No,Yes,No,No,4.2,None,Fair,Moderate
+57,Male,5.0,40,Light,,Medium,2.0,8.0,Relationship,3,No,No,Yes,No,5.0,Occasional,Poor,Mild
+62,Male,9.2,37,Moderate,4.0,Medium,14.0,6.0,Relationship,5,No,Yes,No,No,6.9,Moderate,Poor,Mild
+18,Male,5.3,22,Light,6.0,Low,4.0,,Relationship,2,No,No,No,No,6.6,Occasional,Fair,Minimal
