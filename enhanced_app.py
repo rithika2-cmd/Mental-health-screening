@@ -535,6 +535,11 @@ st.markdown("""
     font-family: 'Poppins', sans-serif;
 }
 
+/* Ensure text is always readable on teal background */
+.stMarkdown, .stText, p, h1, h2, h3, h4, label {
+    color: #1a1a1a !important;
+}
+
 .stApp {
     background: linear-gradient(135deg, #e0f2f1 0%, #b2dfdb 25%, #80cbc4 50%, #4db6ac 75%, #26a69a 100%);
     background-attachment: scroll;
@@ -619,17 +624,24 @@ st.markdown("""
 
 /* Radio buttons */
 .stRadio > label {
-    background: rgba(255, 255, 255, 0.8);
+    background: rgba(255, 255, 255, 0.95);
     padding: 12px 20px;
     border-radius: 15px;
     margin: 5px 0;
     border: 2px solid rgba(38, 166, 154, 0.2);
     transition: all 0.3s ease;
+    color: #1a1a1a !important;
 }
 
 .stRadio > label:hover {
     background: rgba(38, 166, 154, 0.1);
     border-color: var(--calm-teal);
+}
+
+/* Force question label text to be dark and visible */
+.stRadio p, .stRadio label, div[data-testid="stRadio"] p {
+    color: #1a1a1a !important;
+    font-weight: 600 !important;
 }
 
 /* Info boxes */
