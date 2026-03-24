@@ -608,13 +608,31 @@ st.markdown("""
 /* Soft inputs */
 .stTextInput input, .stNumberInput input, .stTextArea textarea {
     border-radius: 15px !important;
-    border: 2px solid rgba(38, 166, 154, 0.3) !important;
-    background: rgba(255, 255, 255, 0.9) !important;
+    border: 2px solid rgba(38, 166, 154, 0.5) !important;
+    background: #ffffff !important;
+    color: #1a1a1a !important;
 }
 
 .stTextInput input:focus, .stNumberInput input:focus, .stTextArea textarea:focus {
     border-color: var(--calm-teal) !important;
     box-shadow: 0 0 0 3px rgba(38, 166, 154, 0.1) !important;
+}
+
+/* Selectbox */
+.stSelectbox > div > div {
+    background: #ffffff !important;
+    color: #1a1a1a !important;
+    border-radius: 15px !important;
+    border: 2px solid rgba(38, 166, 154, 0.5) !important;
+}
+
+/* Download button fix */
+.stDownloadButton > button {
+    background: linear-gradient(135deg, var(--calm-teal), var(--calm-mint)) !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 25px !important;
+    font-weight: 500 !important;
 }
 
 /* Sidebar styling */
