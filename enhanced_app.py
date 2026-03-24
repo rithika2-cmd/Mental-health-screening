@@ -226,7 +226,7 @@ st.set_page_config(
     page_title="Mental Health Screening App",
     page_icon="🧠",
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="collapsed"
 )
 
 # Initialize session state
@@ -537,7 +537,8 @@ st.markdown("""
 
 .stApp {
     background: linear-gradient(135deg, #e0f2f1 0%, #b2dfdb 25%, #80cbc4 50%, #4db6ac 75%, #26a69a 100%);
-    background-attachment: fixed;
+    background-attachment: scroll;
+    min-height: 100vh;
 }
 
 /* Calming color palette */
@@ -567,7 +568,6 @@ st.markdown("""
 
 .resource-card {
     background: rgba(255, 255, 255, 0.9);
-    backdrop-filter: blur(10px);
     border-left: 5px solid var(--calm-teal);
     padding: 20px;
     margin: 15px 0;
